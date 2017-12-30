@@ -3,12 +3,12 @@ const config = {
   port: 5509,
 
   // 你的diqus secret key
-  api_secret: 'your secret key',
+  api_secret: 'o2Jzy9KGdXzkn9rL9e7YwZXzWMTimU0MQ9P7lUlZcXTv68Vmp0NQ6mYeqnGOOMUH',
 
   // 你的website的 shortname 名称 比如在你的disqus安装代码中 有这样一句脚本：
   // s.src = 'https://abcd.disqus.com/embed.js';
   // 那么你的disqus 的shortname 就是 abcd
-  shortname: 'your short name',
+  shortname: 'lucios-blog',
 
   // 服务端socks5代理转发，便于在本地测试，生产环境通常为null
   // socks5Proxy: {
